@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rakshana02
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning UI/UX
 - 📬 reach me at rakshanasakthi920@gmail.com
 
 <!---
